@@ -6,8 +6,8 @@ html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
     font-family: Helvetica, Arial, sans-serif;
-    color: #475B5D;
-    background: linear-gradient(#B5EFF3, #17636A);
+    color: #FFF;
+    background: linear-gradient(#9ED2D6, #17636A);
 }
 
 main {
@@ -40,7 +40,7 @@ a:hover {
 }
 
 div a {
-    background: #90a4ae;
+    background: #fff;
     box-shadow: 1px 1px 3px #b0bec5;
     padding: 0.4rem 1rem;
     border-radius: 1.2rem;

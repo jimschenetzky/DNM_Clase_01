@@ -6,8 +6,8 @@ html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
     font-family: Helvetica, Arial, sans-serif;
-    color: #222333;
-    background: linear-gradient(#eceff1, #cfd8dc);
+    color: #475B5D;
+    background: linear-gradient(#B5EFF3, #17636A);
 }
 
 main {
@@ -27,14 +27,14 @@ p { line-height: 1.5; font-size: 1.5rem; }
 @media (min-width:699px){ p { max-width:700px; } }
 
 a {
-    color: #000;
+    color: #fff;
     opacity: 0.75;
     text-decoration: none;
     transition: all ease .3s;
 }
 
 a:hover {
-    color: #000;
+    color: #fff;
     opacity: 1;
     transition: all ease .2s;
 }
